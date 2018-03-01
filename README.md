@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 This project was packaged for Windows 64-bit. Better to download and run it on a Windows OS 64-bit.
 
 ### Installing
-Clone or download the project, and then launch the Pinball.exe file (Use Escape key to quit the game - only after the main menu). 
+Clone or download the project, and then launch the Pinball.exe file (use Escape key to quit the game - only after the main menu). 
 * Youtube video to show around the project: 
 
 ## Acknowledgments 
