@@ -9,7 +9,7 @@ This project was packaged for Windows 64-bit. Better to download and run it on a
 
 ### Installing
 Clone or download the project, and then launch the Pinball.exe file (use Escape key to quit the game - only after the main menu). 
-* Youtube video to show around the project: 
+* Youtube video to show around the project: https://youtu.be/5T2yDeSoYaI
 
 ## Acknowledgments 
 * This project was for the Udemy course: "Unreal Engine 4: How to Develop Your First Two Games" section 2, and instructed by Christopher Murphy.
