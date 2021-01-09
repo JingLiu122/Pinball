@@ -1,5 +1,5 @@
 # Result
-* Youtube video to show around the project: 
+* Youtube video to show around the project: <br>
 [![Youtube thumbnail image](http://img.youtube.com/vi/5T2yDeSoYaI/0.jpg)](https://youtu.be/5T2yDeSoYaI, "Pinball Project")
 
 
